@@ -19,6 +19,8 @@ Alternatively, you can manually download and include the PHPSecryption.php file 
 Here's an example of how to use PHPSecryption in your PHP code:
 
 ```php
+require 'vendor/autoload.php'; // Add this line if you're using core PHP
+
 use iamjohndev\PHPSecryption;
 
 // Instantiate PHPSecryption with encryption key
