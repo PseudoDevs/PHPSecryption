@@ -5,7 +5,6 @@ PHPSecryption is a PHP class that provides encryption and decryption functionali
 - Strong encryption using AES-256-CBC cipher.
 - Supports custom encryption and decryption keys.
 - Error handling for key mismatches and invalid encrypted data.
-- Namespaced under iamjohndev for easy integration into your PHP projects.
 - Simple and easy-to-use API.
 
 #### Installation
